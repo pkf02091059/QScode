@@ -1,2 +1,2 @@
 # QScode
-some util codes for QS company
+some util codes for QS
